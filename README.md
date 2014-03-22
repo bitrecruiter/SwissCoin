@@ -1,11 +1,9 @@
 SwissCoin
 =========
 
-Token-based hybrid currency implementation using HoboNickels & Proof-of-Burn
+Class-based "off chain" implementation for HoboNickels & Proof-of-Burn
 
 http://AcadémieSuisse.org
-
-SwissCoin relies on Proof-of-Work, Proof-of-Stake, & Proof-of-Burn 
 
 proof-of-work [coin A - PoW mined, unspent]
 
