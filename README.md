@@ -1,7 +1,7 @@
 SwissCoin
 =========
 
-Token-based hybrid currency based on HoboNickels & Proof-of-Burn
+Token-based hybrid currency implementation using HoboNickels & Proof-of-Burn
 
 http://AcadémieSuisse.org
 
