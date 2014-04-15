@@ -1,7 +1,7 @@
 SwissCoin
 =========
 
-Class-based proof token implementation for HoboNickels & proofchain.info
+Class-based bearer/proof token implementation for HoboNickels & proofchain.info
 
 http://académiesuisse.org
 
