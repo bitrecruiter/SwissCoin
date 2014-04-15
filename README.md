@@ -11,7 +11,7 @@ proof-of-stake [coin B - PoS minted, unspent]
 
 proof-of-burn [coin C - any spent output - A or B coin changes to C / burnt state - until eligible for new stake / reassigned to B state]
 
-proof-of-tx [A or B proof token exchange clearsigned on merge-mine blockchain]
+proof-of-tx [A or B proof token exchange clearsigned on auxiliary blockchain]
 
 Scrypt
 333,333,333,333 swc
