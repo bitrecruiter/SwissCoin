@@ -1,6 +1,6 @@
-# bkchain.org
+# AirWallet: courtesy of Burger King Chain®
 
-Blockchain explorer and wallet.
+Blockchain explorer and multi-coin thin client/wallet.
 
 ## Features:
 * Browse blocks, transactions, etc...
@@ -8,8 +8,13 @@ Blockchain explorer and wallet.
 * Live transactions/blocks
 * Client-side and server-side versions
 * Wallet (electrum deterministic)
+* QR scan pay to address
+* Such txValue
+* Wow coinfactor
+* Vaccines up to date
+* No fleas
 
-Note: Search doesn't work yet.
+Note: QR scan needs to get unbroke
 
 ## How to use
 
@@ -20,9 +25,9 @@ Note: Search doesn't work yet.
 
 ### Server-side version
 
-Note: currently non-functional, some features are missing.
-
 Requirements:
 * Node.js
 
 TODO
+
+colonize shibas on moon
